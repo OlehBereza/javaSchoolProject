@@ -59,5 +59,17 @@ Pobrać file java i dodać do utworzonego proektu
 <h2>
   Zrzuty ekranu
 </h2>
+Wynik koncowy obliczenia Wyswietlenia Nazwiska i oceny średniej
+
+![alt tag](https://github.com/OlehBereza/Java-School-Project/blob/main/screen/Screenshot_3.jpg?raw=true)
+
+<br>
+Main tworzący 3 ucznia i przepisywania ich do listy, tworzenia istniejącyh ocen do wykładów 
 
 ![alt tag](https://github.com/OlehBereza/Java-School-Project/blob/main/screen/Screenshot_2.jpg?raw=true)
+
+<br>
+Przypisywania utworzonym uczniam ocen do pewnego przedmiotu i sortowanie listy według Nazwisku
+
+![alt tag](https://github.com/OlehBereza/Java-School-Project/blob/main/screen/Screenshot_1.jpg?raw=true)
+
