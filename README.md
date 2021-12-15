@@ -19,6 +19,7 @@
   </i>
 </h3>
 Czwiczeniowy program obliczeniowy musi ułatwic obliczenia sredniej ocen uczniów szkoły
+Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języku Java, utworzenia klas metod pol, nauczyc sie tworzenia list zapisujących dane a także motodyki sortwania listy i zrozumienia prosteg enum - typu wyliczeniowego
 
 <br>
 
@@ -29,7 +30,6 @@ Czwiczeniowy program obliczeniowy musi ułatwic obliczenia sredniej ocen ucznió
 </h3>
 Wykonuje dopisywanie Uczniów ich nazwiska przypisywanie osen od 1 do 5 z róznych wykładów.
 Metoda liczy średnią ucznia i wyswietla liste z nazwiskami uczniów i ich srednią ocene a także sortuje po nazwisku.<br>
-Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języku Java, utworzenia klas metod pol, nauczyc sie tworzenia list zapisujących dane a także motodyki sortwania listy i zrozumienia prosteg enum - typu wyliczeniowego
 <br>
 
 <h3>
