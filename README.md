@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.freeiconspng.com/thumbs/school-icon-png/high-school-icon-png-8.png" width="211" height="182" alt="Formik.js" />
+  <img src="https://www.kindpng.com/picc/m/126-1269261_high-school-high-school-text-hd-png-download.png" />
 </p>
 
 <i>
@@ -20,8 +20,7 @@
 </h3>
 Czwiczeniowy program obliczeniowy musi ułatwic obliczenia sredniej ocen uczniów szkoły
 Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języku Java, utworzenia klas metod pol, nauczyc sie tworzenia list zapisujących dane a także motodyki sortwania listy i zrozumienia prosteg enum - typu wyliczeniowego
-
-<br>
+<hr>
 
 <h3>
   <i>
@@ -30,7 +29,7 @@ Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języ
 </h3>
 Wykonuje dopisywanie Uczniów ich nazwiska przypisywanie osen od 1 do 5 z róznych wykładów.
 Metoda liczy średnią ucznia i wyswietla liste z nazwiskami uczniów i ich srednią ocene a także sortuje po nazwisku.<br>
-<br>
+<hr>
 
 <h3>
   <i>
@@ -39,23 +38,47 @@ Metoda liczy średnią ucznia i wyswietla liste z nazwiskami uczniów i ich sred
 </h3>
 Project stworzny przez:
 <br>
-- Java
+    <ul type="circle">
+     <li>Java</li>
+   </ul>
 <br>
 Stworzony w programie:
 <br>
-- IntelliJ IDEA Community Edition v. 2021.2.3
-
+   <ul type="circle">
+     <li>IntelliJ IDEA Community Edition v. 2021.2.3</li>
+   </ul>
+<hr>
+<h3>
+  <i>
+  Cechy
+  </i>
+</h3>
+    <ul type>
+    <li>Przypisywanie nowych uczniów do listy</li>
+    <li>Tworzenia nowych Przedmiotów</li>
+    <li>Dodanie oceny</li>
+    <li>Wyliczanie średniej oceny</li>
+    <li>Przypisywanie wysokości oceny do przedmiotu nr 7 i więcej lub 0</li>
+   </ul>
+<hr>
 <h3>
   <i>
   Uruchomienie
   </i>
 </h3>
 Program ma minimalne wymaganie sprzętowe<br>
-Pobierz najnowszą wersje programu IntelliJ IDEA<br>
-Stworz nowy project z utworzoną configuracją Mine<br>
+Pobierz najnowszą wersje programu IntelliJ IDEA...Stworz nowy project z utworzoną configuracją Mine<br>
 Pobrać file java i dodać do utworzonego proektu
+<hr>
+<h3>
+  <i>
+  Przykłady użycia
+  </i>
+</h3>
+<p>Użyj w systemie szkolnym, aby ułatwić arytmetyczne i łatwe wyszukiwanie uczniów poprzez sortowanie</p>
 
-
+<hr>
+<br>
 <h2>
   Zrzuty ekranu
 </h2>
